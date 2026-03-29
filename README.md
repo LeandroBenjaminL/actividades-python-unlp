@@ -56,3 +56,12 @@ Análisis del texto "El Zen de Python". Calcula:
 
 **Módulo:** `src/lines_calculate.py`  
 **Notebook:** `notebooks/ejercicio1.ipynb`
+
+### Ejercicio 2 - Duración de una playlist
+
+Análisis de una playlist de canciones. Calcula:
+- Duración total en formato `Xm Ys`
+- Canción más larga y más corta
+
+**Módulo:** `src/song_calculate.py`  
+**Notebook:** `notebooks/02_Duración de una playlist.ipynb`
