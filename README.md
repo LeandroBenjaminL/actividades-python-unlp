@@ -72,3 +72,11 @@ Reemplaza palabras spoiler en una reseña de película por asteriscos
 de la misma longitud, sin distinguir mayúsculas de minúsculas.
 
 **Notebook:** `03_Filtro de spoilers.ipynb`
+
+# Ejercicio 4 - Validación de email
+
+Valida una dirección de email ingresada por el usuario
+según criterios básicos de formato.
+
+**Módulo:** `src/validation_email.py`
+**Notebook:** `notebooks/ejercicio4.ipynb`
