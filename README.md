@@ -65,3 +65,10 @@ Análisis de una playlist de canciones. Calcula:
 
 **Módulo:** `src/song_calculate.py`  
 **Notebook:** `notebooks/02_Duración de una playlist.ipynb`
+
+### Ejercicio 3 - Filtro de spoilers
+
+Reemplaza palabras spoiler en una reseña de película por asteriscos
+de la misma longitud, sin distinguir mayúsculas de minúsculas.
+
+**Notebook:** `03_Filtro de spoilers.ipynb`
