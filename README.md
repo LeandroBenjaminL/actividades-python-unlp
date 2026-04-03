@@ -73,7 +73,7 @@ de la misma longitud, sin distinguir mayúsculas de minúsculas.
 
 **Notebook:** `03_Filtro de spoilers.ipynb`
 
-# Ejercicio 4 - Validación de email
+### Ejercicio 4 - Validación de email
 
 Valida una dirección de email ingresada por el usuario
 según criterios básicos de formato.
@@ -89,3 +89,9 @@ Zonas válidas: local, regional, nacional.
 
 **Módulo:** `src/kg_zona.py`  
 **Notebook:** `notebooks/Calculadora de costo de envío.ipynb`
+
+### Ejercicio 6 - Análisis de hashtags
+
+Extrae hashtags de publicaciones, cuenta su frecuencia y muestra los trending.
+
+**Notebook:** `notebooks/06_Analisis de hashtags.ipynb`
