@@ -79,4 +79,13 @@ Valida una dirección de email ingresada por el usuario
 según criterios básicos de formato.
 
 **Módulo:** `src/validation_email.py`
-**Notebook:** `notebooks/ejercicio4.ipynb`
+**Notebook:** `notebooks/04_Validación de email.ipynb`
+
+
+### Ejercicio 5 - Calculadora de costo de envío
+
+Calcula el costo de envío de un paquete según su peso y zona de destino.
+Zonas válidas: local, regional, nacional.
+
+**Módulo:** `src/kg_zona.py`  
+**Notebook:** `notebooks/Calculadora de costo de envío.ipynb`
