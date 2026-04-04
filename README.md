@@ -111,3 +111,11 @@ Preserva mayúsculas, minúsculas y caracteres no alfabéticos.
 
 **Módulo:** `src/cifrado_cesar.py`  
 **Notebook:** `notebooks/08_Cifrado César.ipynb`
+
+
+### Ejercicio 9 - Normalización de registros de alumnos
+
+Limpia y normaliza registros de alumnos con datos inconsistentes.
+Filtra nulos, normaliza formato, elimina duplicados y ordena alfabéticamente.
+
+**Notebook:** `09_Normalización de registros de alumnos.ipynb`
