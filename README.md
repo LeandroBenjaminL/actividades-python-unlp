@@ -102,3 +102,12 @@ Dado un listado de participantes, asigna aleatoriamente un amigo invisible
 a cada uno. Valida mínimo 3 participantes y nombres sin duplicados.
 
 **Notebook:** `notebooks/07_Sorteo de amigo invisible.ipynb`
+
+
+### Ejercicio 8 - Cifrado César
+
+Implementa el cifrado César desplazando letras una cantidad fija de posiciones.
+Preserva mayúsculas, minúsculas y caracteres no alfabéticos.
+
+**Módulo:** `src/cifrado_cesar.py`  
+**Notebook:** `notebooks/08_Cifrado César.ipynb`
