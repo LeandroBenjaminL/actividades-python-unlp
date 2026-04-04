@@ -95,3 +95,10 @@ Zonas válidas: local, regional, nacional.
 Extrae hashtags de publicaciones, cuenta su frecuencia y muestra los trending.
 
 **Notebook:** `notebooks/06_Analisis de hashtags.ipynb`
+
+### Ejercicio 7 - Sorteo de amigo invisible
+
+Dado un listado de participantes, asigna aleatoriamente un amigo invisible
+a cada uno. Valida mínimo 3 participantes y nombres sin duplicados.
+
+**Notebook:** `notebooks/07_Sorteo de amigo invisible.ipynb`
