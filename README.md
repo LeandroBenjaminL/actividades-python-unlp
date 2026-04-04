@@ -118,4 +118,21 @@ Preserva mayúsculas, minúsculas y caracteres no alfabéticos.
 Limpia y normaliza registros de alumnos con datos inconsistentes.
 Filtra nulos, normaliza formato, elimina duplicados y ordena alfabéticamente.
 
-**Notebook:** `09_Normalización de registros de alumnos.ipynb`
+**Notebook:** `notebooks/09_Normalización de registros de alumnos.ipynb`
+
+
+# Ejercicio 10 - Simulación de competencia de cocina y ranking
+
+Simula una competencia de cocina con 5 participantes evaluados por 3 jueces
+en 5 rondas. Muestra la tabla de posiciones después de cada ronda y una
+tabla final con estadísticas acumuladas.
+
+**Notebook:** `10_Simulación de competencia de cocina y ranking.ipynb`
+**Módulo:** `src/cooking_competition.py`
+
+
+
+## Notas
+
+Proyecto desarrollado como parte de la cursada de Python UNLP 2026.
+El código busca ser pythonic y seguir las convenciones de PEP 8.
